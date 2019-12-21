@@ -50,3 +50,4 @@ print(np.sqrt(-mean_score), params)
 52012.9945396 {'bootstrap': False, 'max_features': 4, 'n_estimators': 10}
 
 ### Think about RandomizeSearch
+RandomizedSearchCV
