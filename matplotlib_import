@@ -1,2 +1,3 @@
-%matplotlib inline #To plot inside the notebook
+%matplotlib inline 
+#To plot inside the notebook
 import matplotlib.pyplot as plt
