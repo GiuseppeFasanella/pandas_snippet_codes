@@ -1,6 +1,8 @@
 import pandas as pd
 %matplotlib inline
 import matplotlib.pyplot as plt
+import seaborn as sns
+
 
 df = pd.DataFrame(index=['9h30','10h','10h30','14h','16h'], columns=['10h30','11h','12h','16h','18h','19h'])
 df.loc['9h30','16h']=0.491
